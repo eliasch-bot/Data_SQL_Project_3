@@ -1,0 +1,409 @@
+,comunidad,anio,ipc
+0,Andalucia,2003,72.838
+1,Andalucia,2004,74.391
+2,Andalucia,2005,76.635
+3,Andalucia,2006,79.725
+4,Andalucia,2007,81.823
+5,Andalucia,2008,85.314
+6,Andalucia,2009,85.829
+7,Andalucia,2010,86.586
+8,Andalucia,2011,89.591
+9,Andalucia,2012,91.122
+10,Andalucia,2013,93.369
+11,Andalucia,2014,93.492
+12,Andalucia,2015,92.203
+13,Andalucia,2016,91.9
+14,Andalucia,2017,94.686
+15,Andalucia,2018,95.161
+16,Andalucia,2019,95.877
+17,Andalucia,2020,96.876
+18,Andalucia,2021,97.488
+19,Andalucia,2022,103.523
+20,Andalucia,2023,110.096
+21,Andalucia,2024,114.238
+22,Andalucia,2025,117.486
+23,Aragon,2003,72.23
+24,Aragon,2004,73.783
+25,Aragon,2005,75.991
+26,Aragon,2006,79.213
+27,Aragon,2007,81.261
+28,Aragon,2008,84.98
+29,Aragon,2009,85.855
+30,Aragon,2010,86.752
+31,Aragon,2011,89.385
+32,Aragon,2012,91.299
+33,Aragon,2013,93.619
+34,Aragon,2014,93.652
+35,Aragon,2015,92.141
+36,Aragon,2016,91.981
+37,Aragon,2017,94.616
+38,Aragon,2018,95.052
+39,Aragon,2019,95.992
+40,Aragon,2020,96.945
+41,Aragon,2021,97.387
+42,Aragon,2022,103.854
+43,Aragon,2023,109.909
+44,Aragon,2024,113.336
+45,Aragon,2025,116.915
+46,Asturias,2003,73.075
+47,Asturias,2004,74.838
+48,Asturias,2005,76.837
+49,Asturias,2006,79.909
+50,Asturias,2007,81.484
+51,Asturias,2008,85.167
+52,Asturias,2009,85.921
+53,Asturias,2010,86.74
+54,Asturias,2011,89.968
+55,Asturias,2012,91.781
+56,Asturias,2013,94.144
+57,Asturias,2014,94.168
+58,Asturias,2015,92.794
+59,Asturias,2016,92.471
+60,Asturias,2017,95.228
+61,Asturias,2018,95.556
+62,Asturias,2019,96.385
+63,Asturias,2020,97.246
+64,Asturias,2021,97.593
+65,Asturias,2022,103.364
+66,Asturias,2023,109.649
+67,Asturias,2024,113.196
+68,Asturias,2025,116.807
+69,Canarias,2023,109.648
+70,Canarias,2024,114.024
+71,Canarias,2025,116.443
+72,Cantabria,2003,71.928
+73,Cantabria,2004,73.522
+74,Cantabria,2005,75.466
+75,Cantabria,2006,78.561
+76,Cantabria,2007,80.383
+77,Cantabria,2008,84.154
+78,Cantabria,2009,84.777
+79,Cantabria,2010,85.792
+80,Cantabria,2011,88.835
+81,Cantabria,2012,90.484
+82,Cantabria,2013,93.608
+83,Cantabria,2014,93.912
+84,Cantabria,2015,92.33
+85,Cantabria,2016,91.962
+86,Cantabria,2017,94.768
+87,Cantabria,2018,95.161
+88,Cantabria,2019,96.024
+89,Cantabria,2020,97.087
+90,Cantabria,2021,97.567
+91,Cantabria,2022,103.635
+92,Cantabria,2023,109.562
+93,Cantabria,2024,113.618
+94,Cantabria,2025,116.672
+95,Castilla La Mancha,2003,72.556
+96,Castilla La Mancha,2004,74.117
+97,Castilla La Mancha,2005,76.497
+98,Castilla La Mancha,2006,79.982
+99,Castilla La Mancha,2007,81.593
+100,Castilla La Mancha,2008,85.45
+101,Castilla La Mancha,2009,85.534
+102,Castilla La Mancha,2010,86.309
+103,Castilla La Mancha,2011,89.505
+104,Castilla La Mancha,2012,91.439
+105,Castilla La Mancha,2013,93.734
+106,Castilla La Mancha,2014,93.796
+107,Castilla La Mancha,2015,91.947
+108,Castilla La Mancha,2016,91.376
+109,Castilla La Mancha,2017,94.366
+110,Castilla La Mancha,2018,94.941
+111,Castilla La Mancha,2019,95.635
+112,Castilla La Mancha,2020,96.992
+113,Castilla La Mancha,2021,97.144
+114,Castilla La Mancha,2022,104.171
+115,Castilla La Mancha,2023,111.312
+116,Castilla La Mancha,2024,115.483
+117,Castilla La Mancha,2025,118.662
+118,Castilla y Leon,2003,72.13
+119,Castilla y Leon,2004,73.405
+120,Castilla y Leon,2005,75.588
+121,Castilla y Leon,2006,78.81
+122,Castilla y Leon,2007,80.68
+123,Castilla y Leon,2008,84.347
+124,Castilla y Leon,2009,84.678
+125,Castilla y Leon,2010,85.546
+126,Castilla y Leon,2011,88.544
+127,Castilla y Leon,2012,90.557
+128,Castilla y Leon,2013,93.201
+129,Castilla y Leon,2014,93.521
+130,Castilla y Leon,2015,91.816
+131,Castilla y Leon,2016,91.292
+132,Castilla y Leon,2017,94.367
+133,Castilla y Leon,2018,94.852
+134,Castilla y Leon,2019,95.931
+135,Castilla y Leon,2020,96.981
+136,Castilla y Leon,2021,97.378
+137,Castilla y Leon,2022,103.938
+138,Castilla y Leon,2023,110.72
+139,Castilla y Leon,2024,114.51
+140,Castilla y Leon,2025,117.583
+141,Catalunya,2003,69.256
+142,Catalunya,2004,71.192
+143,Catalunya,2005,73.758
+144,Catalunya,2006,77.142
+145,Catalunya,2007,79.0
+146,Catalunya,2008,82.466
+147,Catalunya,2009,83.37
+148,Catalunya,2010,84.504
+149,Catalunya,2011,87.283
+150,Catalunya,2012,89.236
+151,Catalunya,2013,92.216
+152,Catalunya,2014,92.484
+153,Catalunya,2015,91.617
+154,Catalunya,2016,91.584
+155,Catalunya,2017,94.428
+156,Catalunya,2018,95.24
+157,Catalunya,2019,96.23
+158,Catalunya,2020,97.374
+159,Catalunya,2021,97.789
+160,Catalunya,2022,103.534
+161,Catalunya,2023,109.068
+162,Catalunya,2024,112.701
+163,Catalunya,2025,116.084
+164,Ceuta,2003,75.647
+165,Ceuta,2004,77.966
+166,Ceuta,2005,79.892
+167,Ceuta,2006,82.86
+168,Ceuta,2007,84.758
+169,Ceuta,2008,87.607
+170,Ceuta,2009,88.695
+171,Ceuta,2010,89.903
+172,Ceuta,2011,91.865
+173,Ceuta,2012,93.466
+174,Ceuta,2013,95.194
+175,Ceuta,2014,95.205
+176,Ceuta,2015,94.398
+177,Ceuta,2016,93.971
+178,Ceuta,2017,96.285
+179,Ceuta,2018,96.013
+180,Ceuta,2019,96.802
+181,Ceuta,2020,97.045
+182,Ceuta,2021,97.629
+183,Ceuta,2022,102.978
+184,Comunitat Valenciana,2003,72.735
+185,Comunitat Valenciana,2004,74.258
+186,Comunitat Valenciana,2005,76.657
+187,Comunitat Valenciana,2006,79.818
+188,Comunitat Valenciana,2007,81.699
+189,Comunitat Valenciana,2008,85.096
+190,Comunitat Valenciana,2009,85.829
+191,Comunitat Valenciana,2010,86.637
+192,Comunitat Valenciana,2011,89.457
+193,Comunitat Valenciana,2012,91.159
+194,Comunitat Valenciana,2013,93.478
+195,Comunitat Valenciana,2014,93.598
+196,Comunitat Valenciana,2015,92.304
+197,Comunitat Valenciana,2016,91.883
+198,Comunitat Valenciana,2017,94.675
+199,Comunitat Valenciana,2018,95.072
+200,Comunitat Valenciana,2019,96.036
+201,Comunitat Valenciana,2020,96.986
+202,Comunitat Valenciana,2021,97.487
+203,Comunitat Valenciana,2022,103.571
+204,Comunitat Valenciana,2023,109.508
+205,Comunitat Valenciana,2024,113.439
+206,Comunitat Valenciana,2025,116.905
+207,Extremadura,2003,74.354
+208,Extremadura,2004,75.682
+209,Extremadura,2005,77.669
+210,Extremadura,2006,80.425
+211,Extremadura,2007,82.092
+212,Extremadura,2008,85.663
+213,Extremadura,2009,86.276
+214,Extremadura,2010,87.032
+215,Extremadura,2011,90.016
+216,Extremadura,2012,91.579
+217,Extremadura,2013,94.043
+218,Extremadura,2014,93.915
+219,Extremadura,2015,92.508
+220,Extremadura,2016,91.988
+221,Extremadura,2017,94.616
+222,Extremadura,2018,94.829
+223,Extremadura,2019,95.734
+224,Extremadura,2020,96.723
+225,Extremadura,2021,97.293
+226,Extremadura,2022,103.627
+227,Extremadura,2023,110.446
+228,Extremadura,2024,113.787
+229,Extremadura,2025,116.965
+230,Galicia,2003,72.115
+231,Galicia,2004,73.7
+232,Galicia,2005,75.961
+233,Galicia,2006,79.108
+234,Galicia,2007,80.779
+235,Galicia,2008,84.304
+236,Galicia,2009,84.702
+237,Galicia,2010,85.679
+238,Galicia,2011,88.572
+239,Galicia,2012,90.539
+240,Galicia,2013,92.805
+241,Galicia,2014,93.222
+242,Galicia,2015,91.909
+243,Galicia,2016,91.464
+244,Galicia,2017,94.346
+245,Galicia,2018,94.893
+246,Galicia,2019,95.669
+247,Galicia,2020,96.809
+248,Galicia,2021,97.183
+249,Galicia,2022,103.762
+250,Galicia,2023,110.41
+251,Galicia,2024,114.562
+252,Galicia,2025,117.661
+253,Islas Baleares,2003,72.49
+254,Islas Baleares,2004,73.761
+255,Islas Baleares,2005,76.148
+256,Islas Baleares,2006,79.052
+257,Islas Baleares,2007,81.008
+258,Islas Baleares,2008,84.116
+259,Islas Baleares,2009,84.803
+260,Islas Baleares,2010,85.842
+261,Islas Baleares,2011,88.198
+262,Islas Baleares,2012,90.041
+263,Islas Baleares,2013,92.526
+264,Islas Baleares,2014,92.995
+265,Islas Baleares,2015,91.999
+266,Islas Baleares,2016,91.951
+267,Islas Baleares,2017,94.598
+268,Islas Baleares,2018,95.253
+269,Islas Baleares,2019,95.893
+270,Islas Baleares,2020,96.983
+271,Islas Baleares,2021,97.643
+272,Islas Baleares,2022,103.518
+273,Islas Baleares,2023,109.448
+274,Islas Baleares,2024,113.175
+275,Islas Baleares,2025,116.989
+276,La Rioja,2003,71.613
+277,La Rioja,2004,73.231
+278,La Rioja,2005,75.588
+279,La Rioja,2006,79.014
+280,La Rioja,2007,81.132
+281,La Rioja,2008,84.54
+282,La Rioja,2009,85.235
+283,La Rioja,2010,85.812
+284,La Rioja,2011,88.767
+285,La Rioja,2012,90.717
+286,La Rioja,2013,93.111
+287,La Rioja,2014,93.127
+288,La Rioja,2015,92.046
+289,La Rioja,2016,91.895
+290,La Rioja,2017,94.765
+291,La Rioja,2018,94.997
+292,La Rioja,2019,96.05
+293,La Rioja,2020,97.07
+294,La Rioja,2021,97.338
+295,La Rioja,2022,103.721
+296,La Rioja,2023,110.148
+297,La Rioja,2024,113.999
+298,La Rioja,2025,117.093
+299,Madrid,2003,72.739
+300,Madrid,2004,74.498
+301,Madrid,2005,76.628
+302,Madrid,2006,79.777
+303,Madrid,2007,81.745
+304,Madrid,2008,85.029
+305,Madrid,2009,85.843
+306,Madrid,2010,86.824
+307,Madrid,2011,89.523
+308,Madrid,2012,91.346
+309,Madrid,2013,93.555
+310,Madrid,2014,93.72
+311,Madrid,2015,92.548
+312,Madrid,2016,92.322
+313,Madrid,2017,94.769
+314,Madrid,2018,95.401
+315,Madrid,2019,96.62
+316,Madrid,2020,97.528
+317,Madrid,2021,97.889
+318,Madrid,2022,103.404
+319,Madrid,2023,108.872
+320,Madrid,2024,111.865
+321,Madrid,2025,115.329
+322,Melilla,2003,72.839
+323,Melilla,2004,74.754
+324,Melilla,2005,77.533
+325,Melilla,2006,81.086
+326,Melilla,2007,83.712
+327,Melilla,2008,86.612
+328,Melilla,2009,87.33
+329,Melilla,2010,88.882
+330,Melilla,2011,91.434
+331,Melilla,2012,92.555
+332,Melilla,2013,93.563
+333,Melilla,2014,93.343
+334,Melilla,2015,92.718
+335,Melilla,2016,92.073
+336,Melilla,2017,94.696
+337,Melilla,2018,95.262
+338,Melilla,2019,94.76
+339,Melilla,2020,95.473
+340,Melilla,2021,97.036
+341,Melilla,2022,103.528
+342,Murcia,2003,72.462
+343,Murcia,2004,74.581
+344,Murcia,2005,76.723
+345,Murcia,2006,80.276
+346,Murcia,2007,82.322
+347,Murcia,2008,85.931
+348,Murcia,2009,86.279
+349,Murcia,2010,87.077
+350,Murcia,2011,89.971
+351,Murcia,2012,91.629
+352,Murcia,2013,94.19
+353,Murcia,2014,94.368
+354,Murcia,2015,92.863
+355,Murcia,2016,92.697
+356,Murcia,2017,95.452
+357,Murcia,2018,95.471
+358,Murcia,2019,96.085
+359,Murcia,2020,97.225
+360,Murcia,2021,97.648
+361,Murcia,2022,103.725
+362,Murcia,2023,110.135
+363,Murcia,2024,114.318
+364,Murcia,2025,116.921
+365,Navarra,2003,72.935
+366,Navarra,2004,74.625
+367,Navarra,2005,76.917
+368,Navarra,2006,80.168
+369,Navarra,2007,81.586
+370,Navarra,2008,85.013
+371,Navarra,2009,85.766
+372,Navarra,2010,86.214
+373,Navarra,2011,88.817
+374,Navarra,2012,90.84
+375,Navarra,2013,93.349
+376,Navarra,2014,92.981
+377,Navarra,2015,91.654
+378,Navarra,2016,91.586
+379,Navarra,2017,94.258
+380,Navarra,2018,94.579
+381,Navarra,2019,95.803
+382,Navarra,2020,96.973
+383,Navarra,2021,97.37
+384,Navarra,2022,103.508
+385,Pais Vasco,2003,71.208
+386,Pais Vasco,2004,72.91
+387,Pais Vasco,2005,74.993
+388,Pais Vasco,2006,78.105
+389,Pais Vasco,2007,79.982
+390,Pais Vasco,2008,83.297
+391,Pais Vasco,2009,84.387
+392,Pais Vasco,2010,85.18
+393,Pais Vasco,2011,87.862
+394,Pais Vasco,2012,89.627
+395,Pais Vasco,2013,91.861
+396,Pais Vasco,2014,92.407
+397,Pais Vasco,2015,91.479
+398,Pais Vasco,2016,91.558
+399,Pais Vasco,2017,94.24
+400,Pais Vasco,2018,94.665
+401,Pais Vasco,2019,95.585
+402,Pais Vasco,2020,96.902
+403,Pais Vasco,2021,97.516
+404,Pais Vasco,2022,103.377
+405,Pais Vasco,2023,109.184
+406,Pais Vasco,2024,112.975
+407,Pais Vasco,2025,116.934
