@@ -125,7 +125,7 @@ Mientras unas regiones viven tensiones de precios e inversión, otras se estanca
 
 ## Autor
 **Elías Chafih**  
-https://github.com/eliasch-bot
+https://github.com/eliasgitch
 
 **Ignacio Sabatell**  
 https://github.com/ignaciosabatell
